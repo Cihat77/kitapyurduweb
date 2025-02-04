@@ -57,7 +57,7 @@
                   v-model="email"
                   :rules="emailRules"
                   :counter="10"
-                  label="E posta"
+                  label="e posta"
                   solo
                 />
               </v-col>
