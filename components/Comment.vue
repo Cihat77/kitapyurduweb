@@ -6,7 +6,7 @@
           <v-col md="3">
             <v-card>
               <v-card-title class="d-flex justify-center">
-                Ürüne Puan Ver
+                Ürün Puani Ver
               </v-card-title>
               <v-card-text>
                 <v-rating
