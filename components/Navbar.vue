@@ -12,7 +12,7 @@
 
       <v-toolbar-items>
         <v-btn to="Register" style="background-color:black;border-color: transparent; box-shadow:none;" class="mr-5 white--text">
-          Üye ol
+          Uye ol
         </v-btn>
       </v-toolbar-items>
 
