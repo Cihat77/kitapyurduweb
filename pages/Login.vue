@@ -3,7 +3,7 @@
   <v-container>
     <v-card width="350px">
       <v-card-title style="background-color:#CFD8DC; font-weight: bold; font-size: x-large;">
-        Hoşgeldiniz
+        Hosgeldiniz
       </v-card-title>
       <v-divider />
       <v-card-text>
