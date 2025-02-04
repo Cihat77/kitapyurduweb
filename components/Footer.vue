@@ -14,7 +14,7 @@
         <v-card-text>
           <v-row class="space-between">
             <v-col>
-              Mobil Uygulamalar
+              Mobil Uygulama
               <v-btn
                 style="background-color: black;"
                 class="white--text mx-4"
